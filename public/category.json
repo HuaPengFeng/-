@@ -1,0 +1,316 @@
+[{
+    "title": "新品",
+    "id": 10001,
+    "imgUrl": ["/images/pic1.png", "/images/pic1-1.png", "/images/pic1-2.png"],
+    "name": "Redmi K20 Pro",
+    "price": "2499",
+    "info": "骁龙855旗舰处理器 / 索尼4800万超广角三摄 / 前置2000万升降式相机 / 6.39AMOLED全面屏 / 4000mAh超长续航 / 8层石墨立体散热 / 第七代屏下指纹解锁 / 多功能NFC",
+    "xq": ["/images/xq1.jpg", "/images/xq2.jpg", "/images/xq3.jpg", "/images/xq4.jpg", "/images/xq5.jpg"],
+    "yanselist": ["炫酷红", "冰川蓝", "碳钎黑"],
+    "peizhi": [{ "img": "/images/cpu.png", "title": "CPU", "contenta": "骁龙855八核" }, { "img": "/images/shexiangtou.png", "title": "三摄像头", "contenta": "4800万+800万+1300万像素" }, { "img": "/images/chaodapin.png", "title": "超大屏", "contenta": "6.39英寸" }, { "img": "/images/fenbianlv.png", "title": "屏幕分辨率", "contenta": "2340*1080" }, { "img": "/images/daiji.png", "title": "超长待机", "contenta": "4000mAh" }, { "img": "/images/jisu.png", "title": "急速畅玩", "contenta": "6GB" }, { "img": "/images/rongliang.png", "title": "储存容量", "contenta": "64GB" }, { "img": "/images/houdu.png", "title": "机身厚度", "contenta": "7.7mm" }, { "img": "/images/yunyingwangluo.png", "title": "网络运营商", "contenta": "4G全网通" }, { "img": "/images/wangluomoshi.png", "title": "网络模式", "contenta": "双卡双待" }],
+    "shujulist": [{ "neicun": "6GB+64GB", "price": "2499" }, { "neicun": "6GB+128GB", "price": "2599" }, { "neicun": "8GB+128GB", "price": "2799" }, { "neicun": "8GB+256GB", "price": "2999" }]
+}, {
+    "title": "新品",
+    "id": 10002,
+    "imgUrl": ["/images/pic2.png"],
+    "name": "Redmi K20",
+    "price": "1299",
+    "xq": ["/images/xq1.jpg", "/images/xq2.jpg", "/images/xq3.jpg"]
+}, {
+    "title": "新品",
+    "id": 10003,
+    "imgUrl": ["/images/pic3.png"],
+    "name": "Redmi 7A",
+    "price": "1299",
+    "xq": ["/images/xq1.jpg", "/images/xq2.jpg", "/images/xq3.jpg"]
+}, {
+    "title": "新品",
+    "id": 10004,
+    "imgUrl": ["/images/pic6.png"],
+    "name": "Redmi Note 7 Pro",
+    "price": "1299",
+    "xq": ["/images/xq1.jpg", "/images/xq2.jpg", "/images/xq3.jpg"]
+}, {
+    "title": "新品",
+    "id": 10005,
+    "imgUrl": ["/images/pic7.png"],
+    "name": "Redmi 7",
+    "price": "1299",
+    "xq": ["/images/xq1.jpg", "/images/xq2.jpg", "/images/xq3.jpg"]
+}, {
+    "title": "新品",
+    "id": 10006,
+    "imgUrl": ["/images/pic8.png"],
+    "name": "黑鲨鱼游戏手机",
+    "price": "1299",
+    "xq": ["/images/xq1.jpg", "/images/xq2.jpg", "/images/xq3.jpg"]
+}, {
+    "title": "新品",
+    "id": 10007,
+    "imgUrl": ["/images/pic9.png"],
+    "name": "Redmi Note 7",
+    "price": "1299",
+    "xq": ["/images/xq1.jpg", "/images/xq2.jpg", "/images/xq3.jpg"]
+}, {
+    "title": "新品",
+    "id": 10008,
+    "imgUrl": ["/images/pic4.png"],
+    "name": "小米9",
+    "price": "1299",
+    "xq": ["/images/xq1.jpg", "/images/xq2.jpg", "/images/xq3.jpg"]
+}, {
+    "title": "新品",
+    "id": 10009,
+    "imgUrl": ["/images/pic5.png"],
+    "name": "小米9 SE",
+    "price": "1299",
+    "xq": ["/images/xq1.jpg", "/images/xq2.jpg", "/images/xq3.jpg"]
+}, {
+    "title": "新品",
+    "id": 10010,
+    "imgUrl": ["/images/jiadian1.jpg"],
+    "name": "全面屏电视E55A",
+    "price": "1299",
+    "xq": ["/images/xq1.jpg", "/images/xq2.jpg", "/images/xq3.jpg"]
+}, {
+    "title": "新品",
+    "id": 10011,
+    "imgUrl": ["/images/jiadian2.jpg"],
+    "name": "壁画电视65英寸",
+    "price": "1299",
+    "xq": ["/images/xq1.jpg", "/images/xq2.jpg", "/images/xq3.jpg"]
+}, {
+    "title": "新品",
+    "id": 10012,
+    "imgUrl": ["/images/jiadian3.jpg"],
+    "name": "电视4X65英寸",
+    "price": "1299",
+    "xq": ["/images/xq1.jpg", "/images/xq2.jpg", "/images/xq3.jpg"]
+}, {
+    "title": "新品",
+    "id": 10013,
+    "imgUrl": ["/images/pic10.png"],
+    "name": "立式空调C1",
+    "price": "1299",
+    "xq": ["/images/xq1.jpg", "/images/xq2.jpg", "/images/xq3.jpg"]
+}, {
+    "title": "新品",
+    "id": 10014,
+    "imgUrl": ["/images/pic11.jpg"],
+    "name": "空调C1（一级能效）",
+    "price": "1299",
+    "xq": ["/images/xq1.jpg", "/images/xq2.jpg", "/images/xq3.jpg"]
+}, {
+    "title": "新品",
+    "id": 10015,
+    "imgUrl": ["/images/pic12.jpg"],
+    "name": "洗烘一体机1A",
+    "price": "1299",
+    "xq": ["/images/xq1.jpg", "/images/xq2.jpg", "/images/xq3.jpg"]
+}, {
+    "title": "电视",
+    "id": 10016,
+    "imgUrl": ["/images/jiadian1.jpg"],
+    "name": "全面屏电视E55A",
+    "info": "索尼2400万自拍，超级夜景",
+    "price": "2599",
+    "oldPrice": "2999",
+    "xq": ["/images/xq1.jpg", "/images/xq2.jpg", "/images/xq3.jpg"]
+}, {
+    "title": "电视",
+    "id": 10017,
+    "imgUrl": ["/images/jiadian2.jpg"],
+    "name": "壁画电视65英寸",
+    "info": "索尼2400万自拍，超级夜景",
+    "price": "2599",
+    "oldPrice": "2999",
+    "xq": ["/images/xq1.jpg", "/images/xq2.jpg", "/images/xq3.jpg"]
+}, {
+    "title": "电视",
+    "id": 10018,
+    "imgUrl": ["/images/jiadian3.jpg"],
+    "name": "电视4X65英寸",
+    "info": "索尼2400万自拍，超级夜景",
+    "price": "2599",
+    "oldPrice": "2999",
+    "xq": ["/images/xq1.jpg", "/images/xq2.jpg", "/images/xq3.jpg"]
+}, {
+    "title": "电视",
+    "id": 10019,
+    "imgUrl": ["/images/jiadian4.jpg"],
+    "name": "电视4X65英寸",
+    "info": "索尼2400万自拍，超级夜景",
+    "price": "2599",
+    "oldPrice": "2999",
+    "xq": ["/images/xq1.jpg", "/images/xq2.jpg", "/images/xq3.jpg"]
+}, {
+    "title": "电视",
+    "id": 10020,
+    "imgUrl": ["/images/jiadian5.jpg"],
+    "name": "电视4X65英寸",
+    "info": "索尼2400万自拍，超级夜景",
+    "price": "2599",
+    "oldPrice": "2999",
+    "xq": ["/images/xq1.jpg", "/images/xq2.jpg", "/images/xq3.jpg"]
+}, {
+    "title": "电视",
+    "id": 10021,
+    "imgUrl": ["/images/jiadian6.jpg"],
+    "name": "电视4X65英寸",
+    "info": "索尼2400万自拍，超级夜景",
+    "price": "2599",
+    "oldPrice": "2999",
+    "xq": ["/images/xq1.jpg", "/images/xq2.jpg", "/images/xq3.jpg"]
+
+}, {
+    "title": "手机",
+    "id": 10022,
+    "imgUrl": ["/images/shouji1.jpg"],
+    "name": "小米8",
+    "info": "索尼2400万自拍，超级夜景",
+    "price": "2599",
+    "oldPrice": "2999",
+    "xq": ["/images/xq1.jpg", "/images/xq2.jpg", "/images/xq3.jpg"]
+}, {
+    "title": "手机",
+    "id": 10023,
+    "imgUrl": ["/images/shouji2.jpg"],
+    "name": "小米8 青春版",
+    "info": "手持超级夜景",
+    "price": "1099",
+    "oldPrice": "1699",
+    "xq": ["/images/xq1.jpg", "/images/xq2.jpg", "/images/xq3.jpg"]
+}, {
+    "title": "手机",
+    "id": 10024,
+    "imgUrl": ["/images/shouji3.jpg"],
+    "name": "小米MIX 2S",
+    "info": "AI超感光双摄，DxO百分相机",
+    "price": "1999",
+    "oldPrice": "2999",
+    "xq": ["/images/xq1.jpg", "/images/xq2.jpg", "/images/xq3.jpg"]
+}, {
+    "id": 10025,
+    "title": "手机",
+    "imgUrl": ["/images/shouji4.jpg"],
+    "name": "小米MIX 3",
+    "info": "AI 双摄超大像素，双核对焦",
+    "price": "1299",
+    "oldPrice": "1699",
+    "xq": ["/images/xq1.jpg", "/images/xq2.jpg", "/images/xq3.jpg"]
+
+}, {
+
+
+    "title": "电脑",
+    "id": 10026,
+    "imgUrl": ["/images/diannao1.jpg"],
+    "name": "小米Air 12.5",
+    "price": "1299",
+    "xq": ["/images/xq1.jpg", "/images/xq2.jpg", "/images/xq3.jpg"]
+}, {
+    "title": "电脑",
+    "id": 10027,
+    "imgUrl": ["/images/diannao2.jpg"],
+    "name": "小米Air 13.3",
+    "price": "1299",
+    "xq": ["/images/xq1.jpg", "/images/xq2.jpg", "/images/xq3.jpg"]
+}, {
+    "title": "电脑",
+    "id": 10028,
+    "imgUrl": ["/images/diannao3.jpg"],
+    "name": "笔记本 15.6 独显",
+    "price": "1299",
+    "xq": ["/images/xq1.jpg", "/images/xq2.jpg", "/images/xq3.jpg"]
+
+}, {
+
+    "title": "家用电器",
+    "id": 10029,
+    "imgUrl": ["/images/jiayong1.jpg"],
+    "name": "擦地机",
+    "price": "1299",
+    "xq": ["/images/xq1.jpg", "/images/xq2.jpg", "/images/xq3.jpg"]
+}, {
+    "title": "家用电器",
+    "id": 10030,
+    "imgUrl": ["/images/jiayong2.jpg"],
+    "name": "新风机",
+    "price": "1299",
+    "xq": ["/images/xq1.jpg", "/images/xq2.jpg", "/images/xq3.jpg"]
+}, {
+    "title": "家用电器",
+    "id": 10031,
+    "imgUrl": ["/images/jiayong3.jpg"],
+    "name": "电暖器",
+    "price": "1299",
+    "xq": ["/images/xq1.jpg", "/images/xq2.jpg", "/images/xq3.jpg"]
+
+}, {
+
+    "title": "耳机",
+    "id": 10032,
+    "imgUrl": ["/images/erji1.jpg"],
+    "name": "活塞耳机Type-C版",
+    "price": "1299",
+    "xq": ["/images/xq1.jpg", "/images/xq2.jpg", "/images/xq3.jpg"]
+}, {
+    "title": "耳机",
+    "id": 10033,
+    "imgUrl": ["/images/erji2.jpg"],
+    "name": "双单元耳机Type-C版",
+    "price": "1299",
+    "xq": ["/images/xq1.jpg", "/images/xq2.jpg", "/images/xq3.jpg"]
+}, {
+    "title": "耳机",
+    "id": 10034,
+    "imgUrl": ["/images/erji3.jpg"],
+    "name": "双单元耳机Type-C版",
+    "price": "1299",
+    "xq": ["/images/xq1.jpg", "/images/xq2.jpg", "/images/xq3.jpg"]
+
+}, {
+    "title": "音响",
+    "id": 10035,
+    "imgUrl": ["/images/yinxiang1.jpg"],
+    "name": "小米小爱触屏音箱",
+    "price": "1299",
+    "xq": ["/images/xq1.jpg", "/images/xq2.jpg", "/images/xq3.jpg"]
+}, {
+    "title": "音响",
+    "id": 10036,
+    "imgUrl": ["/images/yinxiang2.jpg"],
+    "name": "小米小爱音箱 Play",
+    "price": "1299",
+    "xq": ["/images/xq1.jpg", "/images/xq2.jpg", "/images/xq3.jpg"]
+}, {
+    "title": "音响",
+    "id": 10037,
+    "imgUrl": ["/images/yinxiang3.jpg"],
+    "name": "小米AI音箱",
+    "price": "1299",
+    "xq": ["/images/xq1.jpg", "/images/xq2.jpg", "/images/xq3.jpg"]
+
+}, {
+    "title": "路由器",
+    "id": 10038,
+    "imgUrl": ["/images/luyouqi1.jpg"],
+    "name": "小米路由器 4A",
+    "price": "1299",
+    "xq": ["/images/xq1.jpg", "/images/xq2.jpg", "/images/xq3.jpg"]
+}, {
+    "title": "路由器",
+    "id": 10039,
+    "imgUrl": ["/images/luyouqi2.jpg"],
+    "name": "路由 Mesh",
+    "price": "1299",
+    "xq": ["/images/xq1.jpg", "/images/xq2.jpg", "/images/xq3.jpg"]
+}, {
+    "title": "路由器",
+    "id": 10040,
+    "imgUrl": ["/images/luyouqi3.jpg"],
+    "name": "路由4C 300M",
+    "price": "1299",
+    "xq": ["/images/xq1.jpg", "/images/xq2.jpg", "/images/xq3.jpg"]
+
+}]
